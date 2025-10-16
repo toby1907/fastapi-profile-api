@@ -23,6 +23,8 @@ A FastAPI-based RESTful API that returns profile information along with dynamic 
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/toby1907/fastapi-profile-api.git
 cd fastapi-profile-api
 ```
+
+2. pip install -r requirements.txt
